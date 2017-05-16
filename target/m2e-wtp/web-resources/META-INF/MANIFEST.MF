@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SPRING-WS - ws-security-username-password-authen
+ tication-Wss4jSecurityInterceptor
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: CH-E01329
+Implementation-Vendor-Id: com.memorynotfound.spring.ws
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
